@@ -1,1 +1,0 @@
-import{d as a,r as n,a as i,o as l,c as r,b as c,w as _,u as p,i as d,e as f}from"./index-bb225a18.js";const b=a({__name:"index",setup(u){let e=n(!1);return(m,o)=>{const t=i("tl-choose-icon");return l(),r("div",null,[c(t,{title:"选择图标",visible:p(e),"onUpdate:visible":o[0]||(o[0]=s=>d(e)?e.value=s:e=s)},{default:_(()=>[f("选择图标")]),_:1},8,["visible"])])}}});export{b as default};
