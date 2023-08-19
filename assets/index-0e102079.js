@@ -1,1 +1,0 @@
-import{_ as t,a as o,o as r,c,b as n,F as s}from"./index-e64b8772.js";const a={};function _(i,p){const e=o("tl-progress");return r(),c(s,null,[n(e,{percentage:60,isAnimation:""}),n(e,{type:"circle",percentage:60,isAnimation:""})],64)}const m=t(a,[["render",_]]);export{m as default};
